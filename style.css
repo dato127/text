@@ -1,0 +1,20 @@
+/*პირველი div ტეგის სელექტორი*/
+#div1 {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #B4B4B4;
+    margin-top: 77px;
+    margin-left: 37px;
+    text-align: justify;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.burger {
+    margin-left: 613px;
+    margin-top: 20px;
+    color: #F00;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
